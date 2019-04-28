@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
-background: '/img/bg-about.jpg'
+description: Apple Certified Tech. Web developer. Coder.
+background: '/img/dark-triangles.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
